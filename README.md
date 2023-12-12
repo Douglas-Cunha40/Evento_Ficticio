@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="./src/images/douglas.png">
+    <img src="./src/images/ebac_logo.svg">
 </div>
 
 
-<h1 align="center"><font size="8">Land Page Evento aniversário</font></h1>
+<h1 align="center"><font size="8">Land Page Evento de Tecnologia EBAC</font></h1>
 <p align="center"><font size="6">Página criada com o objetivo de aplicar e aprimorar conhecimentos adquiridos com estudos 
 aprofundados em HTML5, CSS3, JAVASCRIPT, PARCEL e SASS</font></p>
 
